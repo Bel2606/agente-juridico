@@ -78,5 +78,3 @@ Regras obrigatórias:
 
 - Ao término da análise, sugerir como título do chat o nome de um dos autores identificados.
  
-Se existirem dúvidas relevantes ou ausência de documentos essenciais, interrompa a elaboração da inicial e apresente todas as pendências antes da redação da peça.
- 
